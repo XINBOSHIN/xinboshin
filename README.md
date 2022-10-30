@@ -14,7 +14,7 @@ ___
 **About Me**
 
 - Возраст : 18
-- Навыки : Java, PHP, HTML, CSS, Javascript, Python, React, Spring Boot and a few others
+- Навыки : Java, PHP, HTML, CSS, Javascript, Python, React, Spring Boot и другие языки.
 - Мой проект : https://discord.gg/6hBYMUFw2Z
 ___
 **Stats**
