@@ -16,6 +16,7 @@ ___
 - Возраст : 18
 - Навыки : Java, PHP, HTML, CSS, Javascript, Python, React, Spring Boot и другие языки.
 - Мой проект : https://discord.gg/6hBYMUFw2Z
+- Сайт : xinboshin.org
 ___
 **Stats**
 
