@@ -4,18 +4,17 @@
    <body>
       <h2 align="center">Чего-то интересное</h2>
       <p align="center">
-        <em>Активно веду разработку своего проекта <a className="greeting-text-p subTitle" href="https://fantality.su">FANTALITY.SU</a> неимоверно люблю людей на нём за сильную отдачу, положительные эмоции и запоминающиеся моменты. Заходи, поиграем вместе.</em>
+        <em>Имею частичную занятость в заказах, но всегда возможно найти меня тут: <a className="greeting-text-p subTitle" href="https://discord.gg/3xADq9hAcu">Discord-сервер</a></em>
         </p>
     <body/>
 <html/>
       
 ___
 
-**About Me**
+**Обо мне**
 
 - Возраст : 18
 - Навыки : Java, PHP, HTML, CSS, Javascript, Python, React, Spring Boot и другие языки.
-- Мой проект : https://discord.gg/6hBYMUFw2Z
 - Сайт : xinboshin.org
 ___
 **Stats**
