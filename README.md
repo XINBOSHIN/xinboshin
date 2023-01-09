@@ -2,7 +2,7 @@
 
 <html>
    <body>
-      <h2 align="center">Чего-то интересное</h2>
+      <h2 align="center">Обращаясь к прошлому..</h2>
       <p align="center">
         <em>Имею частичную занятость в заказах, но всегда возможно найти меня тут: <a className="greeting-text-p subTitle" href="https://discord.gg/3xADq9hAcu">Discord-сервер</a></em>
         </p>
@@ -17,7 +17,7 @@ ___
 - Навыки : Java, PHP, HTML, CSS, Javascript, Python, React, Spring Boot и другие языки.
 - Сайт : xinboshin.org
 ___
-**Stats**
+**Статистика вкладов**
 
 <a href="https://github.com/xinboshin">
 <img src="https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&count_private=true" alt="Xinboshin's GitHub Статистика"/>
