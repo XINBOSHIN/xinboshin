@@ -20,6 +20,6 @@ ___
 **Статистика вкладов**
 
 <a href="https://github.com/xinboshin">
-<img src="https://github-readme-stats.vercel.app/api?user=xinboshin&show_icons=true&count_private=true" alt="Xinboshin's GitHub Статистика"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&count_private=true" alt="Xinboshin's GitHub Статистика"/>
 </a>
 
