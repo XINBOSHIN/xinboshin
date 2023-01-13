@@ -14,12 +14,7 @@ ___
 **Обо мне**
 
 - Возраст : 18
-- Навыки : Java, PHP, HTML, CSS, Javascript, Python, React, Spring Boot и другие языки.
+- Навыки : Java, Kotlin, PHP, HTML, CSS, Javascript, Python, React, Spring Boot и другие языки.
 - Сайт : xinboshin.org
 ___
-**Статистика вкладов**
-
-<a href="https://github.com/xinboshin">
-<img src="https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&count_private=true" alt="Xinboshin's GitHub Статистика"/>
-</a>
 
