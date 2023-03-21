@@ -2,9 +2,9 @@
 
 <html>
    <body>
-      <h2 align="center">Обращаясь к прошлому..</h2>
+      <h2 align="center">Конец разработкам!</h2>
       <p align="center">
-        <em>Имею частичную занятость в заказах, но всегда возможно найти меня тут: <a className="greeting-text-p subTitle" href="https://discord.gg/3xADq9hAcu">Discord-сервер</a></em>
+        <em>Кажется, эпоха Ксинбошина подходит к концу..</em>
         </p>
     <body/>
 <html/>
