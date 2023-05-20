@@ -2,7 +2,7 @@
 
 <html>
    <body>
-      <h2 align="center">Ветер перемен</h2>
+      <h2 align="center">Новое начало старых концов!</h2>
       <p align="center">
         <em>Привет, я Xinboshin Butterworth и являюсь высококлассным разработчиком квестово-сюжетных модификаций. Написание сюжетов, сценариев, реализация каст-сцен и других великолепных вещей.</em>
         </p>
@@ -14,8 +14,8 @@ ___
 **Обо мне**
 
 - Возраст : 18
-- Навыки : Java, Kotlin, PHP, HTML, CSS, Javascript, Python, React, Spring Boot.
+- Навыки : Java, Kotlin, PHP, Vue, CSS, Javascript, Python, React, Spring Boot, Laravel
 - Сайт : xinboshin.org
-- Telegram: @xinboshinbutterworth
+- Telegram: @xinboshinbutterworth (с 5:00 по 18:00)
 ___
 
