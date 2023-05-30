@@ -14,7 +14,7 @@ ___
 **Обо мне**
 
 - Возраст : 18
-- Навыки : Java, Kotlin, PHP, Vue, CSS, Javascript, Python, React, Spring Boot, Laravel
+- Навыки : Java, Kotlin, PHP, Vue, CSS, Javascript, Python, React, Spring Boot, Laravel, Nuxt, Next
 - Сайт : xinboshin.org
 - Telegram: @xinboshinbutterworth (с 5:00 по 18:00)
 ___
