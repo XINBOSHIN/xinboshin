@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/xinboshin/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
 [![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
@@ -20,15 +20,15 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=xinboshin&theme=react-dark)
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=xinboshin&theme=dark&hide_border=false" width = 500>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinboshin&theme=dark)](https://github.com/xinboshin/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/xinboshin)
 
 ---
 
