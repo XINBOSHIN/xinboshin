@@ -5,7 +5,7 @@
     <a href="https://instagram.com/xinboshin" target="blank">
         <img align="center" src="assets/instagram.svg" alt="xinboshin's instagram"/>
     </a>
-    <a href="https://linkedin.com/in/minish144" target="blank">
+    <a href="https://linkedin.com/in/xinboshin" target="blank">
         <img align="center" src="assets/linkedin.svg" alt="xinboshin's linkedin"/>
     </a>
 </p>
