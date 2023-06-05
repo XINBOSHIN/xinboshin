@@ -29,4 +29,4 @@
 
 Сотрудничество: [Xinboshin Efistrellerov](https://github.com/xinboshin)
 
-Последняя редакция: 05/06/2023
+Последняя редакция: 06/06/2023
