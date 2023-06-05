@@ -24,7 +24,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinboshin&theme=dark)](https://github.com/xinboshin/github-readme-stats)
+([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xinboshin&repo=github-readme-stats)](https://github.com/xinboshin/github-readme-stats))
 
 Благодарю за посещение профиля!
 
