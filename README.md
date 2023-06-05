@@ -12,7 +12,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Привет, я Xinboshin</h1>
 <p align="center">
-    <a href="https://github.com/Minish144?tab=repositories" target="blank">
+    <a href="https://github.com/Xinboshin?tab=repositories" target="blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=minish144&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=00000000" alt="xinboshin gh stats"/>
     </a></br></br>
     <a href="http://github-readme-streak-stats.herokuapp.com?user=minish144&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD110000" target="blank">
