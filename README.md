@@ -23,7 +23,6 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=xinboshin&theme=dark&hide_border=true" width = 500>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&theme=dark" width = 500>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xinboshin&repo=github-readme-stats)]
 
 Благодарю за посещение профиля!
 
