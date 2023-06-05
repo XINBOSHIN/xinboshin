@@ -4,13 +4,13 @@
 [![Gmail Badge](https://img.shields.io/badge/admin@xinboshin.org-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:admin@xinboshin.org)
 <img src="https://komarev.com/ghpvc/?username=xinboshin&style=plastic" />
 
-I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
+Привет, я высококлассный разработчик модификаций и сценариев, также разрабатываю плагины на заказ. Имеются уже готовые модификации на моём сайте, пожалуйста, ознакомьтесь с ними в активных ссылках.<br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
+- 🌱 Я разрабатываю исключительно **Minecraft-моды** а также, практикую разработку **Сайтов**.
+- 💬 Большая часть моих репозиториев предоставляется в **открытом доступе**.
+- ⚡ Забавный факт: В этом мире есть 10 типов людей: те, кто разбирается в бинарных опционах, и те, кто этого не делает :)
+- Ставьте ⭐ на мои репозитории, чтобы сделать мой день лучше :)! 😄.
 
 <br>
 
