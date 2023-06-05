@@ -20,8 +20,6 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=xinboshin&theme=react-dark)
-
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=xinboshin&theme=dark&hide_border=false" width = 500>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&theme=dark" width = 500>
