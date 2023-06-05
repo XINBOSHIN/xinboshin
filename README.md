@@ -19,7 +19,6 @@
 
 <br>
 <br>
-
 <img src = "https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&theme=transparent" width = 500>
 
 Благодарю за посещение профиля!
