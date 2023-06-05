@@ -14,7 +14,7 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Языки и инструментарий:</h3>
 <p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
 
 <br>
@@ -28,10 +28,10 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinboshin&theme=dark)](https://github.com/xinboshin/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/xinboshin)
+Благодарю за посещение профиля!
 
 ---
 
-Credit: [tanyagupta0201](https://github.com/tanyagupta0201)
+Сотрудничество: [Xinboshin Efistrellerov](https://github.com/xinboshin)
 
-Last Edited on: 19/08/2021
+Последняя редакция: 05/06/2023
