@@ -21,7 +21,7 @@
 <br>
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=xinboshin&theme=dark&hide_border=true" width = 500>
-[!](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<img src = "https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&theme=transparent" width = 500>
 <img src = "https://github-readme-stats.vercel.app/api?username=xinboshin&show_icons=true&theme=dark" width = 500>
 
 Благодарю за посещение профиля!
