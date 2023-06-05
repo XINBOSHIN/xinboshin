@@ -1,6 +1,6 @@
 <h1>Привет, я <a  href="https://github.com/xinboshin/">Данил Новичёк</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/xinboshin)
+[![linkedin badge](https://img.shields.io/badge/xinboshin-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/xinboshin)
 [![Gmail Badge](https://img.shields.io/badge/admin@xinboshin.org-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:admin@xinboshin.org)
 <img src="https://komarev.com/ghpvc/?username=xinboshin&style=plastic" />
 
