@@ -1,9 +1,9 @@
-### Приветствую 👋, Я XINBOSHIN.
+### Приветствую 👋, Я Elizabeth Avergini.
 
 <a href="https://github.com/xinboshin">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/xinboshinbutterworth">
+<a href="https://t.me/elizabethavergini">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
 </a>
 <a href="commerce@xinboshin.org ">
