@@ -46,6 +46,10 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/firebase.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/coinbase.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@9.18.0/icons/php.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@9.18.0/icons/ruby.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@9.18.0/icons/tailwindcss.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@9.18.0/icons/nuxtdotjs.svg"></code>
 
 **Углублённое изучение**
 
