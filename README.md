@@ -1,4 +1,4 @@
-### Приветствую 👋, Я Xinboshin Avergini.
+### Приветствую 👋, Я XINBOSHIN (Данил)
 
 <a href="https://github.com/xinboshinavergini">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
